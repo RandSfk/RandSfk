@@ -1,4 +1,4 @@
-# Halo! 👋 Saya [RandSfk]
+# Halo!! 👋 Saya RandSfk
 
 Selamat datang di profil GitHub saya! Saya senang berbagi dan berkolaborasi dalam proyek-proyek keren. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan.
 
@@ -9,6 +9,7 @@ Selamat datang di profil GitHub saya! Saya senang berbagi dan berkolaborasi dala
 
 Terima kasih sudah berkunjung! Jangan ragu untuk terhubung dengan saya di platform sosial media. 😊
 
+
+
 ![Python Developer](https://api2.sololearn.com/v2/certificates/CC-7QL7TEFP/image/png)
- 
 ![Javascript](https://api2.sololearn.com/v2/certificates/CC-TKNYMWO8/image/png)
