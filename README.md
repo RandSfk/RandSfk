@@ -10,4 +10,4 @@ Selamat datang di profil GitHub saya! Saya senang berbagi dan berkolaborasi dala
 Thank you for visiting, don't hesitate to contact me if you want to collaborate or ask anything 😁
 
 
-<img src="https://api2.sololearn.com/v2/certificates/CC-7QL7TEFP/image/png" alt="Python Developer" style="width:270px;"><img src="https://api2.sololearn.com/v2/certificates/CC-TKNYMWO8/image/png" alt="Javascript" style="width:270px;"><img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/3739751/original/Randy_Nurdiansyah20231127-73-mgyn8m.jpg" alt="Hacking" style="width:270px;">
+<img src="https://api2.sololearn.com/v2/certificates/CC-7QL7TEFP/image/png" alt="Python Developer" style="width:300px;"><img src="https://api2.sololearn.com/v2/certificates/CC-TKNYMWO8/image/png" alt="Javascript" style="width:300px;"><img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/3739751/original/Randy_Nurdiansyah20231127-73-mgyn8m.jpg" alt="Hacking" style="width:300px;">
