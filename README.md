@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Python Developer](https://api2.sololearn.com/v2/certificates/CC-7QL7TEFP/image/png)
+ 
 
 <!--
 **RandSfk/RandSfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
