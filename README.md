@@ -1,6 +1,6 @@
 # Halo!! 👋 Saya RandSfk
 
-Selamat datang di profil GitHub saya! Saya senang berbagi dan berkolaborasi dalam proyek-proyek keren. Jangan ragu untuk menjelajahi repositori saya dan memberikan masukan.
+Welcome to my GitHub profile! I love sharing and collaborating on cool projects. Feel free to explore my repository and provide feedback.
 
 ## Sosial Media
 - Instagramㅤ‎ ‎ ‎ ‎‎ ‎ ‎: [@rand_sfk](https://www.instagram.com/rand_sfk)
