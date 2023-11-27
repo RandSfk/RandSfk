@@ -4,7 +4,7 @@ Selamat datang di profil GitHub saya! Saya senang berbagi dan berkolaborasi dala
 
 ## Sosial Media
 - Instagram: [@rand_sfk](https://www.instagram.com/rand_sfk)
-- Facebook: [Rand Sfk Remastered](https://www.facebook.com/dmonlord27)
+- Facebook: [☠️Rand Sfk Remastered☠️](https://www.facebook.com/dmonlord27)
 - TikTok: [@Rndft](https://www.tiktok.com/@rndft)
 
 Thank you for visiting, don't hesitate to contact me if you want to collaborate or ask anything 😁
