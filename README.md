@@ -15,19 +15,7 @@ Thank you for visiting, don't hesitate to contact me if you want to collaborate 
 
 
 
-<style>
-    @keyframes moveLeft {
-      from { transform: translateX(100%); }
-      to { transform: translateX(-100%); }
-    }
+<div style="white-space: nowrap; overflow: hidden; animation: moveLeft 5s linear infinite; @keyframes moveLeft { from { transform: translateX(100%); } to { transform: translateX(-100%); } }">Teks Beranimasi</div>
 
-    .animated-text {
-      white-space: nowrap;
-      overflow: hidden;
-      animation: moveLeft 5s linear infinite;
-    }
-  </style>
-</head>
-<body>
   <div class="animated-text">Teks Beranimasi</div>
-</body>
+
