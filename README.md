@@ -23,7 +23,7 @@ Feel free to explore my repositories. I’m always open to feedback, collaborati
 
 - **Instagram**: [@rand_sfk](https://www.instagram.com/rand_sfk)  
 - **Facebook**: [☠️ Rand Sfk Remastered ☠️](https://www.facebook.com/dmonlord27)  
-- **TikTok**: [@Rndft](https://www.tiktok.com/@rndft)
+- **TikTok**: [@Rndft](https://www.tiktok.com/@rand_sfk)
 
 ---
 
